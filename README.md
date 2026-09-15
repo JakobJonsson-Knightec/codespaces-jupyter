@@ -1,7 +1,5 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Let's Uptech Machine learning demonstration
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Go though the notebook "tree_classifyer.ipynb" cell by cell. The plots appear in a directory called notebooks/plots.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The last cell is an interactive test, where the tree is tested on a new animal (questions appear in a text box at the top of the screen)! Try and see if new animals can be classified correctly. Also, try and see if you can find an animal that is not classified correctly, and discuss why!
