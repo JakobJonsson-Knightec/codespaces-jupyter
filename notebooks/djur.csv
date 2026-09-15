@@ -1,0 +1,17 @@
+djurets_namn,merÄn3Ben,fjäll,flyger,simmar,näbb,grupp
+hund,1,0,0,1,0,däggdjur
+fladdermus,0,0,1,0,0,däggdjur
+bäver,1,0,0,1,0,däggdjur
+säl,0,0,0,1,0,däggdjur
+näbbdjur,1,0,0,1,1,däggdjur
+örn,0,0,1,0,1,fågel
+pingvin,0,0,0,1,1,fågel
+höna,0,0,0,0,1,fågel
+struts,0,0,0,0,1,fågel
+orm,0,1,0,0,0,reptil
+krokodil,1,1,0,1,0,reptil
+sköldpadda,1,1,0,1,0,reptil
+ödla,1,1,0,0,0,reptil
+haj,0,1,0,1,0,fisk
+abborre,0,1,0,1,0,fisk
+sjöhäst,0,1,0,1,0,fisk
