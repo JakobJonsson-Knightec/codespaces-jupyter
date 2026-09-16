@@ -33,5 +33,3 @@ def create_plots(clf, feature_names):
     fig.tight_layout()
     fig.savefig(plot_dir / "feature_viktighet.png", dpi=150)
     plt.show()
-
-    # print("Sparade bilder i plots/: beslutstrad.png, feature_viktighet.png")
